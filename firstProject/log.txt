@@ -1,0 +1,56 @@
+
+1724692982773: GET : /api/users
+
+1724693022994: GET : /users
+
+1724696463505: POST : /api/users
+
+1724696489058: POST : /api/users
+
+1724696677749: POST : /api/users
+
+1724696869563: GET : /
+
+1724696884860: GET : /users
+
+1724696916240: GET : /users
+
+1724696916365: GET : /favicon.ico
+
+1724696981882: POST : /api/users
+
+1724696992505: GET : /users
+
+1724696992606: GET : /favicon.ico
+
+1724697115231: GET : /api/users/1
+
+1724697117137: GET : /api/users
+
+1724697133816: GET : /api/users
+
+1724697384304: GET : /api/users/66ccc78fbab5825396110d31
+
+1724697961052: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724698123761: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724698418950: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724698544951: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741073254: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741153085: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741416720: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741438561: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741452294: PATCH : /api/users/66ccc865ea5aafa6e082a829
+
+1724741592117: GET : /api/users
+
+1724741695837: PATCH : /api/users/66ccc78fbab5825396110d31
+
+1724742001704: DELETE : /api/users/66ccc78fbab5825396110d31
